@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Raga Perception Experiment</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 600px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    .rating-btns > button {
+      margin: 5px;
+      font-size: 18px;
+      padding: 5px 10px;
+    }
+
+    button {
+      margin-top: 10px;
+      padding: 10px 20px;
+      font-size: 16px;
+    }
+
+    .hidden {
+      display: none;
+    }
+  </style>
+  <script src="player.js"></script>
+
+</head>
+
+<body>
+
+  <h1>Raga Perception Experiment</h1>
+  <div id="intro">
+    <label>Participant ID: <input type="text" id="participant-id" /></label><br>
+    <label>Preference:
+      <select id="preference">
+        <option value="carnatic">Carnatic</option>
+        <option value="hindustani">Hindustani</option>
+        <option value="both">Both</option>
+      </select>
+    </label><br>
+    <button id="start-btn">Start Experiment</button>
+  </div>
+
+  <div id="experiment" class="hidden">
+    <p>
+      Click the button below to play the tanpura.
+    </p>
+    <button id="play-tanpura" onclick="toggleTanpura()">Play Tanpura</button>
+    <p>
+      <b>Instruction:</b>
+    <ul>
+      <li>Try not to focus on the raga name, but rather on the phrases in the raga.</li>
+      <li>You can play the raga as many times to get familiar with it.</li>
+    </ul>
+    </p>
+    <h2 id="trial-count">Trial 1 of 36</h2>
+    <div id="trial">
+      <p><b>Listen to the ragas and rate their similarity:</b></p>
+      <p id="audio-info"></p>
+      <p id="raga-pair"></p>
+      <button onclick="play_raga(currentTrial.raga1)">Play Raga 1</button>
+      <button onclick="play_raga(currentTrial.raga2)">Play Raga 2</button>
+      <div class="rating-btns">
+        <div id="rating-buttons"></div>
+        <p>
+          Very Different -----> Very Similar
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div id="end-questions" class="hidden">
+    <h2>Final Questions</h2>
+    <label>Do you play an instrument?
+      <select id="plays-instrument" class="end-question">
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+      </select>
+    </label><br>
+    <label>Do you sing?
+      <select id="sings" class="end-question">
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+      </select>
+    </label><br>
+    <label>Do you have formal training in Indian classical music?
+      <select id="formal-training" class="end-question">
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+      </select>
+    </label><br>
+    <label>Age:
+      <input type="number" id="age" class="end-question" />
+    </label><br>
+    <button id="submit-btn">Submit Responses</button>
+  </div>
+
+  <div id="end-screen" class="hidden">
+    <h2>Thank you!</h2>
+    <p>Click below to download your response data. Send the downloaded file to the experimenter.</p>
+    <button id="download-btn">Download JSON</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
