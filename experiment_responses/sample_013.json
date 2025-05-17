@@ -1,0 +1,348 @@
+{
+  "participant_id": "Vikas Maitreya",
+  "experiment_url": "https://sohamapps.rf.gd/ragatest/grid/?i=2",
+  "date": "2025-05-14T15:04:57.282Z",
+  "selected_ragas": {
+    "cell_00": "C_pharaju",
+    "cell_01": "C_kannadamaruvam",
+    "cell_02": "C_hamsadhwani",
+    "cell_10": "C_dhenuka",
+    "cell_11": "C_chittaranjani",
+    "cell_12": "C_narayani",
+    "cell_20": "C_bindumalini",
+    "cell_21": "C_valaji",
+    "cell_22": "C_gavati"
+  },
+  "responses": [
+    {
+      "trialIndex": 1,
+      "raga1": "C_pharaju",
+      "raga2": "C_hamsadhwani",
+      "cell1": "cell_00",
+      "cell2": "cell_02",
+      "rating": 7,
+      "timestamp": "2025-05-14T14:59:53.770Z"
+    },
+    {
+      "trialIndex": 2,
+      "raga1": "C_kannadamaruvam",
+      "raga2": "C_pharaju",
+      "cell1": "cell_00",
+      "cell2": "cell_01",
+      "rating": 4,
+      "timestamp": "2025-05-14T15:00:24.040Z"
+    },
+    {
+      "trialIndex": 3,
+      "raga1": "C_pharaju",
+      "raga2": "C_dhenuka",
+      "cell1": "cell_00",
+      "cell2": "cell_10",
+      "rating": 6,
+      "timestamp": "2025-05-14T15:00:50.741Z"
+    },
+    {
+      "trialIndex": 4,
+      "raga1": "C_pharaju",
+      "raga2": "C_chittaranjani",
+      "cell1": "cell_00",
+      "cell2": "cell_11",
+      "rating": 5,
+      "timestamp": "2025-05-14T15:00:59.275Z"
+    },
+    {
+      "trialIndex": 5,
+      "raga1": "C_bindumalini",
+      "raga2": "C_pharaju",
+      "cell1": "cell_00",
+      "cell2": "cell_20",
+      "rating": 5,
+      "timestamp": "2025-05-14T15:01:08.239Z"
+    },
+    {
+      "trialIndex": 6,
+      "raga1": "C_narayani",
+      "raga2": "C_kannadamaruvam",
+      "cell1": "cell_01",
+      "cell2": "cell_12",
+      "rating": 3,
+      "timestamp": "2025-05-14T15:01:25.674Z"
+    },
+    {
+      "trialIndex": 7,
+      "raga1": "C_gavati",
+      "raga2": "C_pharaju",
+      "cell1": "cell_00",
+      "cell2": "cell_22",
+      "rating": 2,
+      "timestamp": "2025-05-14T15:01:32.892Z"
+    },
+    {
+      "trialIndex": 8,
+      "raga1": "C_bindumalini",
+      "raga2": "C_kannadamaruvam",
+      "cell1": "cell_01",
+      "cell2": "cell_20",
+      "rating": 3,
+      "timestamp": "2025-05-14T15:01:39.708Z"
+    },
+    {
+      "trialIndex": 9,
+      "raga1": "C_narayani",
+      "raga2": "C_pharaju",
+      "cell1": "cell_00",
+      "cell2": "cell_12",
+      "rating": 5,
+      "timestamp": "2025-05-14T15:01:50.409Z"
+    },
+    {
+      "trialIndex": 10,
+      "raga1": "C_dhenuka",
+      "raga2": "C_kannadamaruvam",
+      "cell1": "cell_01",
+      "cell2": "cell_10",
+      "rating": 6,
+      "timestamp": "2025-05-14T15:02:01.860Z"
+    },
+    {
+      "trialIndex": 11,
+      "raga1": "C_hamsadhwani",
+      "raga2": "C_kannadamaruvam",
+      "cell1": "cell_01",
+      "cell2": "cell_02",
+      "rating": 6,
+      "timestamp": "2025-05-14T15:02:09.894Z"
+    },
+    {
+      "trialIndex": 12,
+      "raga1": "C_hamsadhwani",
+      "raga2": "C_dhenuka",
+      "cell1": "cell_02",
+      "cell2": "cell_10",
+      "rating": 6,
+      "timestamp": "2025-05-14T15:02:10.928Z"
+    },
+    {
+      "trialIndex": 13,
+      "raga1": "C_kannadamaruvam",
+      "raga2": "C_valaji",
+      "cell1": "cell_01",
+      "cell2": "cell_21",
+      "rating": 3,
+      "timestamp": "2025-05-14T15:02:11.995Z"
+    },
+    {
+      "trialIndex": 14,
+      "raga1": "C_pharaju",
+      "raga2": "C_valaji",
+      "cell1": "cell_00",
+      "cell2": "cell_21",
+      "rating": 4,
+      "timestamp": "2025-05-14T15:02:12.977Z"
+    },
+    {
+      "trialIndex": 15,
+      "raga1": "C_gavati",
+      "raga2": "C_kannadamaruvam",
+      "cell1": "cell_01",
+      "cell2": "cell_22",
+      "rating": 3,
+      "timestamp": "2025-05-14T15:02:13.844Z"
+    },
+    {
+      "trialIndex": 16,
+      "raga1": "C_kannadamaruvam",
+      "raga2": "C_chittaranjani",
+      "cell1": "cell_01",
+      "cell2": "cell_11",
+      "rating": 4,
+      "timestamp": "2025-05-14T15:02:14.461Z"
+    },
+    {
+      "trialIndex": 17,
+      "raga1": "C_bindumalini",
+      "raga2": "C_hamsadhwani",
+      "cell1": "cell_02",
+      "cell2": "cell_20",
+      "rating": 3,
+      "timestamp": "2025-05-14T15:02:15.196Z"
+    },
+    {
+      "trialIndex": 18,
+      "raga1": "C_valaji",
+      "raga2": "C_hamsadhwani",
+      "cell1": "cell_02",
+      "cell2": "cell_21",
+      "rating": 4,
+      "timestamp": "2025-05-14T15:02:16.178Z"
+    },
+    {
+      "trialIndex": 19,
+      "raga1": "C_hamsadhwani",
+      "raga2": "C_chittaranjani",
+      "cell1": "cell_02",
+      "cell2": "cell_11",
+      "rating": 2,
+      "timestamp": "2025-05-14T15:02:17.261Z"
+    },
+    {
+      "trialIndex": 20,
+      "raga1": "C_hamsadhwani",
+      "raga2": "C_narayani",
+      "cell1": "cell_02",
+      "cell2": "cell_12",
+      "rating": 4,
+      "timestamp": "2025-05-14T15:02:18.078Z"
+    },
+    {
+      "trialIndex": 21,
+      "raga1": "C_bindumalini",
+      "raga2": "C_dhenuka",
+      "cell1": "cell_10",
+      "cell2": "cell_20",
+      "rating": 6,
+      "timestamp": "2025-05-14T15:02:24.762Z"
+    },
+    {
+      "trialIndex": 22,
+      "raga1": "C_hamsadhwani",
+      "raga2": "C_gavati",
+      "cell1": "cell_02",
+      "cell2": "cell_22",
+      "rating": 3,
+      "timestamp": "2025-05-14T15:02:30.829Z"
+    },
+    {
+      "trialIndex": 23,
+      "raga1": "C_chittaranjani",
+      "raga2": "C_dhenuka",
+      "cell1": "cell_10",
+      "cell2": "cell_11",
+      "rating": 4,
+      "timestamp": "2025-05-14T15:02:37.563Z"
+    },
+    {
+      "trialIndex": 24,
+      "raga1": "C_narayani",
+      "raga2": "C_dhenuka",
+      "cell1": "cell_10",
+      "cell2": "cell_12",
+      "rating": 4,
+      "timestamp": "2025-05-14T15:02:38.996Z"
+    },
+    {
+      "trialIndex": 25,
+      "raga1": "C_narayani",
+      "raga2": "C_chittaranjani",
+      "cell1": "cell_11",
+      "cell2": "cell_12",
+      "rating": 6,
+      "timestamp": "2025-05-14T15:03:03.992Z"
+    },
+    {
+      "trialIndex": 26,
+      "raga1": "C_valaji",
+      "raga2": "C_dhenuka",
+      "cell1": "cell_10",
+      "cell2": "cell_21",
+      "rating": 6,
+      "timestamp": "2025-05-14T15:03:10.524Z"
+    },
+    {
+      "trialIndex": 27,
+      "raga1": "C_dhenuka",
+      "raga2": "C_gavati",
+      "cell1": "cell_10",
+      "cell2": "cell_22",
+      "rating": 6,
+      "timestamp": "2025-05-14T15:03:16.342Z"
+    },
+    {
+      "trialIndex": 28,
+      "raga1": "C_chittaranjani",
+      "raga2": "C_bindumalini",
+      "cell1": "cell_11",
+      "cell2": "cell_20",
+      "rating": 3,
+      "timestamp": "2025-05-14T15:03:27.310Z"
+    },
+    {
+      "trialIndex": 29,
+      "raga1": "C_valaji",
+      "raga2": "C_chittaranjani",
+      "cell1": "cell_11",
+      "cell2": "cell_21",
+      "rating": 5,
+      "timestamp": "2025-05-14T15:03:33.727Z"
+    },
+    {
+      "trialIndex": 30,
+      "raga1": "C_gavati",
+      "raga2": "C_chittaranjani",
+      "cell1": "cell_11",
+      "cell2": "cell_22",
+      "rating": 4,
+      "timestamp": "2025-05-14T15:03:55.730Z"
+    },
+    {
+      "trialIndex": 31,
+      "raga1": "C_narayani",
+      "raga2": "C_bindumalini",
+      "cell1": "cell_12",
+      "cell2": "cell_20",
+      "rating": 6,
+      "timestamp": "2025-05-14T15:04:02.029Z"
+    },
+    {
+      "trialIndex": 32,
+      "raga1": "C_narayani",
+      "raga2": "C_valaji",
+      "cell1": "cell_12",
+      "cell2": "cell_21",
+      "rating": 5,
+      "timestamp": "2025-05-14T15:04:08.246Z"
+    },
+    {
+      "trialIndex": 33,
+      "raga1": "C_bindumalini",
+      "raga2": "C_valaji",
+      "cell1": "cell_20",
+      "cell2": "cell_21",
+      "rating": 5,
+      "timestamp": "2025-05-14T15:04:15.964Z"
+    },
+    {
+      "trialIndex": 34,
+      "raga1": "C_narayani",
+      "raga2": "C_gavati",
+      "cell1": "cell_12",
+      "cell2": "cell_22",
+      "rating": 3,
+      "timestamp": "2025-05-14T15:04:31.715Z"
+    },
+    {
+      "trialIndex": 35,
+      "raga1": "C_bindumalini",
+      "raga2": "C_gavati",
+      "cell1": "cell_20",
+      "cell2": "cell_22",
+      "rating": 4,
+      "timestamp": "2025-05-14T15:04:37.433Z"
+    },
+    {
+      "trialIndex": 36,
+      "raga1": "C_gavati",
+      "raga2": "C_valaji",
+      "cell1": "cell_21",
+      "cell2": "cell_22",
+      "rating": 6,
+      "timestamp": "2025-05-14T15:04:43.567Z"
+    }
+  ],
+  "end_responses": {
+    "plays-instrument": "yes",
+    "sings": "yes",
+    "formal-training": "yes",
+    "age": "25"
+  }
+}

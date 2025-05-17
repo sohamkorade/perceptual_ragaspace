@@ -1,0 +1,348 @@
+{
+  "participant_id": "Saroja TK",
+  "experiment_url": "https://sohamapps.rf.gd/ragatest/grid/?i=1",
+  "date": "2025-05-14T14:50:11.461Z",
+  "selected_ragas": {
+    "cell_00": "H_marwa",
+    "cell_01": "H_tilang",
+    "cell_02": "H_bhoopali",
+    "cell_10": "C_enakshi",
+    "cell_11": "H_sindhura",
+    "cell_12": "H_khambavati",
+    "cell_20": "H_kausi kanada",
+    "cell_21": "H_harikauns",
+    "cell_22": "H_parmeshwari"
+  },
+  "responses": [
+    {
+      "trialIndex": 1,
+      "raga1": "H_harikauns",
+      "raga2": "H_marwa",
+      "cell1": "cell_00",
+      "cell2": "cell_21",
+      "rating": 4,
+      "timestamp": "2025-05-14T14:36:41.841Z"
+    },
+    {
+      "trialIndex": 2,
+      "raga1": "H_parmeshwari",
+      "raga2": "H_marwa",
+      "cell1": "cell_00",
+      "cell2": "cell_22",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:37:41.635Z"
+    },
+    {
+      "trialIndex": 3,
+      "raga1": "H_harikauns",
+      "raga2": "H_parmeshwari",
+      "cell1": "cell_21",
+      "cell2": "cell_22",
+      "rating": 4,
+      "timestamp": "2025-05-14T14:38:24.085Z"
+    },
+    {
+      "trialIndex": 4,
+      "raga1": "H_bhoopali",
+      "raga2": "C_enakshi",
+      "cell1": "cell_02",
+      "cell2": "cell_10",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:38:35.230Z"
+    },
+    {
+      "trialIndex": 5,
+      "raga1": "H_marwa",
+      "raga2": "C_enakshi",
+      "cell1": "cell_00",
+      "cell2": "cell_10",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:38:51.768Z"
+    },
+    {
+      "trialIndex": 6,
+      "raga1": "H_parmeshwari",
+      "raga2": "H_bhoopali",
+      "cell1": "cell_02",
+      "cell2": "cell_22",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:39:08.038Z"
+    },
+    {
+      "trialIndex": 7,
+      "raga1": "H_kausi kanada",
+      "raga2": "H_khambavati",
+      "cell1": "cell_12",
+      "cell2": "cell_20",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:39:22.049Z"
+    },
+    {
+      "trialIndex": 8,
+      "raga1": "H_harikauns",
+      "raga2": "C_enakshi",
+      "cell1": "cell_10",
+      "cell2": "cell_21",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:39:34.820Z"
+    },
+    {
+      "trialIndex": 9,
+      "raga1": "H_parmeshwari",
+      "raga2": "H_kausi kanada",
+      "cell1": "cell_20",
+      "cell2": "cell_22",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:39:56.092Z"
+    },
+    {
+      "trialIndex": 10,
+      "raga1": "H_sindhura",
+      "raga2": "H_kausi kanada",
+      "cell1": "cell_11",
+      "cell2": "cell_20",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:40:35.442Z"
+    },
+    {
+      "trialIndex": 11,
+      "raga1": "H_tilang",
+      "raga2": "H_kausi kanada",
+      "cell1": "cell_01",
+      "cell2": "cell_20",
+      "rating": 3,
+      "timestamp": "2025-05-14T14:40:48.299Z"
+    },
+    {
+      "trialIndex": 12,
+      "raga1": "H_bhoopali",
+      "raga2": "H_sindhura",
+      "cell1": "cell_02",
+      "cell2": "cell_11",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:41:12.968Z"
+    },
+    {
+      "trialIndex": 13,
+      "raga1": "H_marwa",
+      "raga2": "H_bhoopali",
+      "cell1": "cell_00",
+      "cell2": "cell_02",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:41:27.324Z"
+    },
+    {
+      "trialIndex": 14,
+      "raga1": "H_harikauns",
+      "raga2": "H_khambavati",
+      "cell1": "cell_12",
+      "cell2": "cell_21",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:41:51.815Z"
+    },
+    {
+      "trialIndex": 15,
+      "raga1": "H_khambavati",
+      "raga2": "H_parmeshwari",
+      "cell1": "cell_12",
+      "cell2": "cell_22",
+      "rating": 3,
+      "timestamp": "2025-05-14T14:42:09.744Z"
+    },
+    {
+      "trialIndex": 16,
+      "raga1": "H_parmeshwari",
+      "raga2": "C_enakshi",
+      "cell1": "cell_10",
+      "cell2": "cell_22",
+      "rating": 6,
+      "timestamp": "2025-05-14T14:44:24.066Z"
+    },
+    {
+      "trialIndex": 17,
+      "raga1": "C_enakshi",
+      "raga2": "H_khambavati",
+      "cell1": "cell_10",
+      "cell2": "cell_12",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:44:39.451Z"
+    },
+    {
+      "trialIndex": 18,
+      "raga1": "H_tilang",
+      "raga2": "H_khambavati",
+      "cell1": "cell_01",
+      "cell2": "cell_12",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:44:55.809Z"
+    },
+    {
+      "trialIndex": 19,
+      "raga1": "H_khambavati",
+      "raga2": "H_bhoopali",
+      "cell1": "cell_02",
+      "cell2": "cell_12",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:45:17.986Z"
+    },
+    {
+      "trialIndex": 20,
+      "raga1": "H_harikauns",
+      "raga2": "H_kausi kanada",
+      "cell1": "cell_20",
+      "cell2": "cell_21",
+      "rating": 5,
+      "timestamp": "2025-05-14T14:45:35.448Z"
+    },
+    {
+      "trialIndex": 21,
+      "raga1": "H_khambavati",
+      "raga2": "H_marwa",
+      "cell1": "cell_00",
+      "cell2": "cell_12",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:45:49.256Z"
+    },
+    {
+      "trialIndex": 22,
+      "raga1": "H_marwa",
+      "raga2": "H_sindhura",
+      "cell1": "cell_00",
+      "cell2": "cell_11",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:46:05.136Z"
+    },
+    {
+      "trialIndex": 23,
+      "raga1": "H_tilang",
+      "raga2": "H_marwa",
+      "cell1": "cell_00",
+      "cell2": "cell_01",
+      "rating": 7,
+      "timestamp": "2025-05-14T14:46:16.310Z"
+    },
+    {
+      "trialIndex": 24,
+      "raga1": "C_enakshi",
+      "raga2": "H_sindhura",
+      "cell1": "cell_10",
+      "cell2": "cell_11",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:46:29.792Z"
+    },
+    {
+      "trialIndex": 25,
+      "raga1": "H_tilang",
+      "raga2": "H_bhoopali",
+      "cell1": "cell_01",
+      "cell2": "cell_02",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:46:52.685Z"
+    },
+    {
+      "trialIndex": 26,
+      "raga1": "H_kausi kanada",
+      "raga2": "H_marwa",
+      "cell1": "cell_00",
+      "cell2": "cell_20",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:47:06.397Z"
+    },
+    {
+      "trialIndex": 27,
+      "raga1": "H_harikauns",
+      "raga2": "H_tilang",
+      "cell1": "cell_01",
+      "cell2": "cell_21",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:47:25.371Z"
+    },
+    {
+      "trialIndex": 28,
+      "raga1": "H_tilang",
+      "raga2": "H_sindhura",
+      "cell1": "cell_01",
+      "cell2": "cell_11",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:47:37.434Z"
+    },
+    {
+      "trialIndex": 29,
+      "raga1": "H_kausi kanada",
+      "raga2": "H_bhoopali",
+      "cell1": "cell_02",
+      "cell2": "cell_20",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:47:50.297Z"
+    },
+    {
+      "trialIndex": 30,
+      "raga1": "H_sindhura",
+      "raga2": "H_khambavati",
+      "cell1": "cell_11",
+      "cell2": "cell_12",
+      "rating": 4,
+      "timestamp": "2025-05-14T14:48:10.334Z"
+    },
+    {
+      "trialIndex": 31,
+      "raga1": "H_parmeshwari",
+      "raga2": "H_sindhura",
+      "cell1": "cell_11",
+      "cell2": "cell_22",
+      "rating": 3,
+      "timestamp": "2025-05-14T14:48:37.988Z"
+    },
+    {
+      "trialIndex": 32,
+      "raga1": "H_harikauns",
+      "raga2": "H_bhoopali",
+      "cell1": "cell_02",
+      "cell2": "cell_21",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:48:48.400Z"
+    },
+    {
+      "trialIndex": 33,
+      "raga1": "H_kausi kanada",
+      "raga2": "C_enakshi",
+      "cell1": "cell_10",
+      "cell2": "cell_20",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:49:11.908Z"
+    },
+    {
+      "trialIndex": 34,
+      "raga1": "H_tilang",
+      "raga2": "C_enakshi",
+      "cell1": "cell_01",
+      "cell2": "cell_10",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:49:20.252Z"
+    },
+    {
+      "trialIndex": 35,
+      "raga1": "H_tilang",
+      "raga2": "H_parmeshwari",
+      "cell1": "cell_01",
+      "cell2": "cell_22",
+      "rating": 1,
+      "timestamp": "2025-05-14T14:49:32.781Z"
+    },
+    {
+      "trialIndex": 36,
+      "raga1": "H_harikauns",
+      "raga2": "H_sindhura",
+      "cell1": "cell_11",
+      "cell2": "cell_21",
+      "rating": 2,
+      "timestamp": "2025-05-14T14:49:54.697Z"
+    }
+  ],
+  "end_responses": {
+    "plays-instrument": "no",
+    "sings": "yes",
+    "formal-training": "yes",
+    "age": "44"
+  }
+}
